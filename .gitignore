@@ -9,6 +9,7 @@
 .history/
 
 # Common credential files
+**/app-secret.yaml
 **/credentials.json
 **/client_secrets.json
 **/client_secret.json
