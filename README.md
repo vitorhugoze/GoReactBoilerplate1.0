@@ -1,1 +1,0 @@
-# GoReactBoilerplate1.0
